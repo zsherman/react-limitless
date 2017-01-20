@@ -76,14 +76,9 @@ To suggest a feature, create an issue if it does not already exist.
 If you would like to help develop a suggested feature follow these steps:
 
 - Fork this repo
-- `npm install`
-- `npm watch`
+- `$ yarn`
+- `$ yarn run storybook`
 - Implement your changes to files in the `src/` directory
-- Submit PR for review
-
-If you would like to preview your changes as you develop, you can link and utilize our <a href="https://github.com/storybooks/react-storybook" target="\_parent">React Storybook</a> like so:
-
-- `npm install`
-- `run storybook` (or run them in separate tabs)
+- View changes as you code via our <a href="https://github.com/storybooks/react-storybook" target="\_parent">React Storybook</a> `localhost:8000`
 - Make changes to stories in `/stories`, or create a new one if needed
-- View changes at `localhost:8000`
+- Submit PR for review
