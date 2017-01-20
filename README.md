@@ -1,4 +1,4 @@
-<div align="center">
+p <div align="center">
   <a href="https://github.com/zsherman/react-limitless" target="\_parent">
     <img src="https://github.com/zsherman/react-limitless/raw/master/media/banner.png" alt="React Table Logo" style="width:550px;"/>
   </a>
@@ -82,3 +82,10 @@ If you would like to help develop a suggested feature follow these steps:
 - View changes as you code via our <a href="https://github.com/storybooks/react-storybook" target="\_parent">React Storybook</a> `localhost:8000`
 - Make changes to stories in `/stories`, or create a new one if needed
 - Submit PR for review
+
+#### Scripts
+
+- `$ yarn run storybook` Runs the storybook server
+- `$ yarn run test` Runs the test suite
+- `$ yarn run prepublish` Builds the distributable bundle
+- `$ yarn run docs` Builds the website/docs from the storybook for github pages
