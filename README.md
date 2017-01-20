@@ -13,7 +13,7 @@
 <a href="https://npmjs.com/package/react-limitless" target="\_parent">
   <img alt="" src="https://img.shields.io/npm/dm/react-limitless.svg" />
 </a>
-<a href="https://react-limitless-slack.herokuapp.com/" target="\_parent">
+<a href="https://react-chat-signup.herokuapp.com/" target="\_parent">
   <img alt="" src="https://img.shields.io/badge/slack-react--chat-blue.svg" />
 </a>
 <a href="https://github.com/zsherman/react-limitless" target="\_parent">
