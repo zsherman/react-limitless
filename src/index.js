@@ -1,5 +1,5 @@
-import Core from './Core'
+import Limitless from './Core';
 
 module.exports = {
-  default: Core
-}
+  Limitless
+};

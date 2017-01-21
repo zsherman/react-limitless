@@ -1,13 +1,10 @@
-import React from 'react'
-//
-import CodeHighlight from './components/codeHighlight.js'
-import Limitless from '../src/index'
+import React from 'react';
+import CodeHighlight from './components/codeHighlight.js';
+import { Limitless } from '../src/index';
 
 export default () => (
   <div>
-    <Limitless>
-      <div>This will be limitless!</div>
-    </Limitless>
+    <Limitless />
 
     <CodeHighlight language='javascript'>
       {() => getCode()}
@@ -16,9 +13,5 @@ export default () => (
 )
 
 function getCode () {
-  return `
-<Limitless>
-  <div>This will be limitless!</div>
-</Limitless>
-  `
+  return `<Limitless />`
 }

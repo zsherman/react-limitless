@@ -1,11 +1,15 @@
-import React from 'react'
-import classnames from 'classnames'
+import React, { PropTypes } from 'react';
 
-export default ({children, className, ...rest}) => (
-  <div
-    className={classnames('ReactLimitless', className)}
-    {...rest}
-  >
-    {children}
-  </div>
-)
+export class Limitless extends React.PureComponent {
+  render() {
+    return <div>React Limitless</div>;
+  }
+}
+
+Limitless.propTypes = {
+  className: PropTypes.string
+};
+
+Limitless.displayName = 'ReactLimitless';
+
+export default Limitless;
