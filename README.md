@@ -43,30 +43,9 @@ $ npm install react-limitless
 
 ## Example
 What does react-limitless look like? This is the shortest and most concise example we could think of. Looking for more detail? Dive deep with the [Annotated Demo Example](#annotated-demo-example)
-```javascript
-import React from 'react'
-import { Form, Text } from 'react-limitless'
 
-const myForm = (
-  <Form
-    onSubmit={(values) => {
-      console.log('Success!', values)
-    }}
-    validate={({ name }) => {
-      return {
-        name: !name ? 'A name is required' : undefined
-      }
-    }}
-  >
-    {({submitForm}) => {
-      return (
-        <form onSubmit={submitForm}>
-          <Text field='name' />
-          <button type='submit'>Submit</button>
-        </form>
-      )
-    }}
-  </Form>
+```javascript
+  <Limitless data={data} />
 )
 ```
 
