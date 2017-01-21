@@ -1,10 +1,11 @@
-p <div align="center">
+<!-- <div align="center">
   <a href="https://github.com/zsherman/react-limitless" target="\_parent">
     <img src="https://github.com/zsherman/react-limitless/raw/master/media/banner.png" alt="React Table Logo" style="width:550px;"/>
   </a>
   <br />
   <br />
 </div>
+-->
 
 <a href="https://travis-ci.org/zsherman/react-limitless" target="\_parent">
   <img alt="" src="https://travis-ci.org/zsherman/react-limitless.svg?branch=master" />
@@ -12,8 +13,8 @@ p <div align="center">
 <a href="https://npmjs.com/package/react-limitless" target="\_parent">
   <img alt="" src="https://img.shields.io/npm/dm/react-limitless.svg" />
 </a>
-<a href="https://react-limitless-slack.herokuapp.com/" target="\_parent">
-  <img alt="" src="https://img.shields.io/badge/slack-react--form-blue.svg" />
+<a href="https://react-chat-signup.herokuapp.com/" target="\_parent">
+  <img alt="" src="https://img.shields.io/badge/slack-react--chat-blue.svg" />
 </a>
 <a href="https://github.com/zsherman/react-limitless" target="\_parent">
   <img alt="" src="https://img.shields.io/github/stars/zsherman/react-limitless.svg?style=social&label=Star" />
