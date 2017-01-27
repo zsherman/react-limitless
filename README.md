@@ -19,7 +19,7 @@
 <a href="https://github.com/zsherman/react-limitless" target="\_parent">
   <img alt="" src="https://img.shields.io/github/stars/zsherman/react-limitless.svg?style=social&label=Star" />
 </a>
-<a href="https://twitter.com/zsherman" target="\_parent">
+<a href="https://twitter.com/zsh" target="\_parent">
   <img alt="" src="https://img.shields.io/twitter/follow/zsherman.svg?style=social&label=Follow" />
 </a>
 
